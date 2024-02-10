@@ -1,0 +1,17 @@
+input{
+  width: 100%;
+}
+
+.todo-row{
+  margin: 10px 5px ;
+}
+
+.todo-btn{
+  min-width: 80px;
+}
+
+.col-2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
